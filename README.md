@@ -10,7 +10,7 @@ This code is the direct controller for the electronics hardware. This will run o
 O = Open  
 X = Done   
 
-X - Drive LCD over i2c
+X - Drive LCD over i2c    
 O - Drive LED Strips   
 O - Connect to serial port     
 O - Display Data on LCD from Serial      
