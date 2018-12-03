@@ -1,4 +1,4 @@
-# Digital Electronica XMas Projet - Arudino
+# Digital Electronica XMas Project - Arudino
 
 ## What is the project
 As a semester 1 final for Digital Electronics (DE), the class is making a countdown tower. This will consist of a larger tower with a coundown clock located at the top (LCD driven via I2C controller) and adressable LED strips.
